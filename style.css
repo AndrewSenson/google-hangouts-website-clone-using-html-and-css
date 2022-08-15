@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.background-1{
+    
+    width: 100%;
+}
+.line{
+    top: 19px;
+    left: 25px;
+    margin-top: 17px;
+    margin-left: 23px;
+    width: 48px;
+    height: 60px;
+}
+    
+    
+    
+
+.logo{
+    position: absolute;
+    width: 171px;
+    height: 24px;
+    margin-top: 18px;
+    margin-left: 5px;
+}
+
+.dots{
+    position: absolute;
+    margin-left: 171px;
+    margin-top: -66px;
+    padding-left: 14px;
+    height: 40px;
+    width: 40px;
+}
+.signupbutton{
+    margin-top: -61px;
+    margin-left: 229px;
+    color: white;
+    width: 69.34px;
+    height: 30px;
+    background-color: #4285f4;
+    position: absolute;
+    border: 1px;
+}
+.navbar{
+    background-image: url("/Images/2f1c3d68387ec036b4e49469c3289dae-GregSpencerDude.jpg");
+   
+    width: 100%;
+    height: 523px;
+    margin: 0;
+    top: 0;
+    background-position: right;
+}
+banner{
+    position: absolute;
+}
+.nav{
+    padding-left: 1194px;
+    
+}
+.font1{
+    font-weight: 300;
+    font-size: 45px;
+    margin-top: 133px;
+    margin-left: 103px;
+    color: white;
+    text-shadow: 0 2px 4px rgb(0 0 0 / 50%);
+}
+.font2{
+    color: white;
+    font-size: 24px;
+    font-weight: 300;
+    margin-top: 8px;
+    margin-left: 111px;
+    text-shadow: 0 2px 4px rgb(0 0 0 / 50%);
+}
+.pTh3n{
+    fill: white;
+}
+.gb_Ue{
+    fill: white;
+}
+.videobutton{
+    margin-left: 98px;
+    margin-top: 67px;
+
+}
+.textbutton{
+    margin-left: 44px;
+}
+.textv{
+    margin-left: 97px;
+    margin-top: 16px;
+    font: 500 14px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    text-align: left;
+    text-decoration: none;
+    text-shadow: 0 1px 2px rgb(0 0 0 / 50%);
+    text-transform: uppercase;
+    color: white;
+}
+.textm{
+    margin-left: 232px;
+    margin-top: -17px;
+
+    font: 500 14px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    text-align: left;
+    text-decoration: none;
+    text-shadow: 0 1px 2px rgb(0 0 0 / 50%);
+    text-transform: uppercase;
+    color: white;
+}
+.blackbody{
+    width: 100%;
+    height:64px;
+    background-color: black;
+}
+.whitetext{
+    color: white;
+    padding-left: 93px;
+    padding-top: 8px;
+    font: 400 14px Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+
+}
+.symbol1{
+    
+    padding-top: 6px;
+}
+.symbol2{
+    padding-top: 6px;
+}
+.symbol3{
+    padding-top: 4px;
+}
+.mobilegif{
+    background: url(https://ssl.gstatic.com/s2/oz/images/hangouts/hangouts_concert_animation_250.gif) center no-repeat;
+    height: 497px;
+    margin: 96px 0;
+    /* margin-left: -516px; */
+    width: 30%;
+}
+.mobiletext{
+    padding-left: 20px;
+    padding-top: 250px;
+    background-color: #fff;
+    color: #0f9d58;
+    font-size: 34px;
+    font-weight: 300;
+    margin-bottom: 8px;
+    /* margin-left: 485px; */
+    width: 70%;
+}
+.content{
+    font-family: Roboto,Arial,sans-serif;
+    width:991.32px;
+    height:22;
+    color:#757575;
+    list-style:  none;
+    font-size: 20px;
+}
+.tabgif{
+    /* background: url(https://ssl.gstatic.com/s2/oz/images/hangouts/video_ipad_screen_272.gif) center no-repeat; */
+    height: 497px;
+    margin: 96px 0;
+    /* margin-left: -516px; */
+    width: 30%;
+    
+}
+.secondgif{
+    border: 25px solid #000;
+    border-radius: 15px;
+    width: 300px;
+    height: 230px;
+    /* margin: 96px 0; */
+    margin-left: 50px;
+    margin-top:20px;
+}
+.mobiletext2{
+    padding-left: 20px;
+    padding-top: 95px;
+    background-color: #fff;
+    color: #0f9d58;
+    font-size: 34px;
+    font-weight: 300;
+    margin-bottom: 8px;
+    /* margin-left: 485px; */
+    width: 70%;
+}
